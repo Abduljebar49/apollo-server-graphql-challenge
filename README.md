@@ -2,8 +2,9 @@
 
 ## Getting Started
 
-This project contains authentication example using apollo-server graphql
-using Mongodb and Mongoose which is ORM for MongoDb schema
+This project contains GraphQL API using Apollo Server to which perform registration, login, password change, and two-factor authorization operations.
+using Apollo-server, MongoDB and Mongoose ORM libraries mainly using Typescript
+
 ### Prerequisites
 
 To run this project you need to have node installed in your system
