@@ -15,9 +15,9 @@ To run this project you need to have node installed in your system
 
 ### Installation
 
-There are a couple of things 
+There are a couple of things which are required to run this project
 
-1. Get a free API Key at [https://www.mongodb.com/atlas/database](https://www.mongodb.com/atlas/database)
+1. Get a free mongodb connection string at [https://www.mongodb.com/atlas/database](https://www.mongodb.com/atlas/database)
 2. Clone the repo
    ```sh
    git clone https://github.com/Abduljebar49/apollo-server-graphql-challenge.git
