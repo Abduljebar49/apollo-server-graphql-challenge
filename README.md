@@ -2,12 +2,11 @@
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
+This project contains authentication example using apollo-server graphql
+using Mongodb and Mongoose which is ORM for MongoDb schema
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+To run this project you need to have node installed in your system
 * npm
   ```sh
   npm install npm@latest -g
@@ -15,7 +14,7 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+There are a couple of things 
 
 1. Get a free API Key at [https://www.mongodb.com/atlas/database](https://www.mongodb.com/atlas/database)
 2. Clone the repo
@@ -26,7 +25,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    npm install
    ```
-4. add .env file in our root folder
+4. add .env file in root folder
   ```sh
     touch .env
   ```
