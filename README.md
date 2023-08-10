@@ -31,16 +31,13 @@ There are a couple of things which are required to run this project
     touch .env
   ```
 5. Enter your connection string from mongo db in `.env` file
-    and alse we need access token  and refresh token constant value
+    and also you need to add access token  and refresh token constant value
    ```js
     ACCESS_TOKEN_SECRET = "your access token secret"
     REFRESH_TOKEN_SECRET = "your refresh token secret"
     MONGO_DB_CONNECTION_STRING="mongodb+srv://<username>:<password>@<db-url>.mongodb.net/"
    ```
-6. Now run the project
+6. Now you can run the project
     ```sh
     npm start
     ```
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
